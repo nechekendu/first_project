@@ -1,0 +1,27 @@
+.float-right{
+    
+}
+.row-2{
+    border:5px solid red;
+    border-radius:20px;
+}
+ .col1{
+     border:1px solid red;
+ }
+  
+     .col3{
+         border:1px solid red;
+   }
+    
+   .col6{
+       margin-left: -150px;
+   }
+   .row-4{
+       border:5px solid red;
+       border-radius: 20px;
+   }
+
+   .form1{
+       border:2px solid whitesmoke;
+
+   }
